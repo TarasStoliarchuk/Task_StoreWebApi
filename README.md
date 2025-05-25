@@ -1,16 +1,16 @@
 # Store API
 
-## Опис
+## Description
 
-Web API сервіс для роботи з клієнтами, продуктами та покупками магазину.
+Web API service for working with customers, products, and store purchases.
 
-## Стек
+## Stack
 
 - ASP.NET Core
 - EF Core
 - MS SQL Server
 
-## Запуск
+## Launch
 
 ```bash
 dotnet ef database update
